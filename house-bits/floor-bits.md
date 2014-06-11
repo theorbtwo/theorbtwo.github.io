@@ -1,3 +1,8 @@
+---
+title: Floor Bits
+tags: house flooring
+---
+
 So the other day, after attending the AGM of Westmill Solar and seeing
 the http://oxfordgreenhouse.co.uk guy talk about, er, his green house
 in Oxford, Jess and I got talking about what we wanted to do with the
@@ -24,8 +29,8 @@ http://en.wikipedia.org/wiki/Floor helpfully gives some common
 dimensions and suchlike.
 
 Let's say our subfloor consists of plywood panels.  Well, let's say it
-consists of oriented strand board,
-http://www.diy.com/nav/build/timber/sheet-materials/osb/Oriented-Strand-Board-3-L-2400-x-W-1200-x-T-9mm-9276292.
+consists of [oriented strand board]
+(http://www.diy.com/nav/build/timber/sheet-materials/osb/Oriented-Strand-Board-3-L-2400-x-W-1200-x-T-9mm-9276292).
 (Did I say I was using hypothetical products?  I lied.)  That's 2400mm
 x 1200mm x 9mm.  (7ft 10in x 4ft 1in, to the nearest inch.)  Assume
 that the joist spacing is 16 inches.  (Because, obviously, if
